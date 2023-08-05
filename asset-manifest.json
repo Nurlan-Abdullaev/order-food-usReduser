@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/order_food-usReduser/static/css/main.d7c79570.css",
+    "main.js": "/order_food-usReduser/static/js/main.2722dc64.js",
+    "static/media/meals-image.png": "/order_food-usReduser/static/media/meals-image.6bd9a5ad8fbbd203d849.png",
+    "static/media/basket-icon.svg": "/order_food-usReduser/static/media/basket-icon.c36faa3efca4c2a3b7311ff4f8994381.svg",
+    "index.html": "/order_food-usReduser/index.html",
+    "static/media/plus-icon.svg": "/order_food-usReduser/static/media/plus-icon.5e2025a96ba73c4c7c15f2ed65f9ccd4.svg",
+    "static/media/minus-icon.svg": "/order_food-usReduser/static/media/minus-icon.c485e6fde4d19ac2fd0cec0d4c7d72fa.svg",
+    "main.d7c79570.css.map": "/order_food-usReduser/static/css/main.d7c79570.css.map",
+    "main.2722dc64.js.map": "/order_food-usReduser/static/js/main.2722dc64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c79570.css",
+    "static/js/main.2722dc64.js"
+  ]
+}
